@@ -1,0 +1,19 @@
+body
+{
+    background-image: url("Background.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: cursive;
+}
+.heading
+{
+    font-size: 22px;
+}
+a{
+    font-size: 20px;
+    color:aliceblue;
+    background-color: rgb(6, 160, 160);
+    border-radius: 5px;
+    width:170px;
+
+}

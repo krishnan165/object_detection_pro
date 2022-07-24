@@ -1,0 +1,27 @@
+body{
+    background-image: url("bbg.jpg");
+    background-position: center;
+    background-size: cover;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+#exit_button
+{
+    float: right;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: white;
+}
+#heading
+{
+    width: 100%;
+}
+canvas
+{
+    box-shadow: 5px,5px,5px,cyan;
+}
+#infor
+{
+    font-size: 23px;
+}
